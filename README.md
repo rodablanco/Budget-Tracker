@@ -13,7 +13,7 @@ App that gives the user the ability to add expenses and deposits to their budget
 * [Tests](#tests)
 * [Questions](#questions)
 
-## Installation
+## Link
 Run the following command to install:
 ```
 none
