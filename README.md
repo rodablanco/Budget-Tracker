@@ -1,9 +1,8 @@
+# Budget Tacker
 
-# Budget Tracker 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Link
 https://arcane-fortress-49594.herokuapp.com/
-```
+
 ## Languages & Technologies
 * HTML / CSS / Javascript
 * Express 
@@ -14,21 +13,17 @@ https://arcane-fortress-49594.herokuapp.com/
 * Service Worker
 * Cache Storage
 
-
 ## Description
-App that gives the user the ability to add expenses and deposits to their budget with ot without a internet connection. All the transactions will be updated when conneciton is established again
-
-
+App that gives the user the ability to add expenses and deposits to their budget with ot without a internet connection. All the transactions will be updated when conneciton is established again 
 
 ## Screenshot
+<img src="assets/images/budget-tracker.png" alt="Budget tracker">
 
-![Budget Tracker](assets/images/budget-tracker.png)
+
 
 ## License
-This project is licensed under the MIT License.
-
-
+MIT License
 
 ## Contact Information
- * Email: <rodrigo.a.blanco1990@gmail.com.> 
- * Github: <https://github.com/rodablanco>
+Rod Blanco
+* Email: <rodrigo.a.blanco1990@gmail.com>
