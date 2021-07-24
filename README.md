@@ -22,7 +22,7 @@ App that gives the user the ability to add expenses and deposits to their budget
 
 ## Screenshot
 
-<img src="assets/images/budget-tracker.png" alt= "Budget Tracker">
+![Budget Tracker](assets/images/budget-tracker.png)
 
 ## License
 This project is licensed under the MIT License.
